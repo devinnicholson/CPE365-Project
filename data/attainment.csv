@@ -1,0 +1,220 @@
+country,attainment,gender,degree
+Australia,23.365779999999997,female,bachelor
+Australia,18.56723,male,bachelor
+Australia,20.986629999999998,total,bachelor
+Australia,4.80526,female,master
+Australia,4.73661,male,master
+Australia,4.77119,total,master
+Australia,0.80995,female,doctoral
+Australia,1.16462,male,doctoral
+Australia,0.9857799999999999,total,doctoral
+Azerbaijan,12.5984,female,master
+Azerbaijan,18.99834,male,master
+Azerbaijan,15.660570000000002,total,master
+Azerbaijan,0.0,female,doctoral
+Azerbaijan,0.0,male,doctoral
+Azerbaijan,0.0,total,doctoral
+Belgium,20.38668,female,bachelor
+Belgium,15.17808,male,bachelor
+Belgium,17.86906,total,bachelor
+Belgium,9.8935,female,master
+Belgium,13.930660000000001,male,master
+Belgium,11.8449,total,master
+Belgium,0.36516,female,doctoral
+Belgium,0.7153,male,doctoral
+Belgium,0.5343899999999999,total,doctoral
+Bulgaria,26.223959999999998,female,master
+Bulgaria,19.297710000000002,male,master
+Bulgaria,22.919710000000002,total,master
+Colombia,10.69697,female,bachelor
+Colombia,10.76463,male,bachelor
+Colombia,10.73227,total,bachelor
+Cyprus,23.22638,female,bachelor
+Cyprus,25.60077,male,bachelor
+Cyprus,24.3526,total,bachelor
+Cyprus,0.37128,female,doctoral
+Cyprus,0.71682,male,doctoral
+Cyprus,0.53518,total,doctoral
+Czech Republic,17.39248725,female,bachelor
+Czech Republic,19.2258753,male,bachelor
+Czech Republic,18.27937243,total,bachelor
+Dominican Republic,11.938180000000001,female,bachelor
+Dominican Republic,9.70974,male,bachelor
+Dominican Republic,10.85859,total,bachelor
+Ecuador,13.5782,female,bachelor
+Ecuador,13.49838,male,bachelor
+Ecuador,13.5403,total,bachelor
+Ecuador,0.10955,female,master
+Ecuador,0.24408000000000002,male,master
+Ecuador,0.17342,total,master
+Estonia,44.41955,female,bachelor
+Estonia,29.01425,male,bachelor
+Estonia,37.16046,total,bachelor
+Guatemala,1.99089,female,bachelor
+Guatemala,2.42137,male,bachelor
+Guatemala,2.18872,total,bachelor
+Guatemala,0.16239,female,master
+Guatemala,0.18405,male,master
+Guatemala,0.17234000000000002,total,master
+Hungary,13.850389999999999,female,bachelor
+Hungary,9.71082,male,bachelor
+Hungary,11.877369999999999,total,bachelor
+Hungary,6.6260699999999995,female,master
+Hungary,7.506639999999999,male,master
+Hungary,7.04577,total,master
+Hungary,0.46771,female,doctoral
+Hungary,0.5414,male,doctoral
+Hungary,0.50284,total,doctoral
+Kuwait,11.07054,female,bachelor
+Kuwait,6.792960000000001,male,bachelor
+Kuwait,8.31939,total,bachelor
+Latvia,32.28001,female,bachelor
+Latvia,21.23046,male,bachelor
+Latvia,27.2259,total,bachelor
+Latvia,0.53847,female,doctoral
+Latvia,0.38661999999999996,male,doctoral
+Latvia,0.46901000000000004,total,doctoral
+Lithuania,28.239729999999998,female,bachelor
+Lithuania,23.01979,male,bachelor
+Lithuania,25.942520000000002,total,bachelor
+Lithuania,0.43531000000000003,female,doctoral
+Lithuania,0.45221999999999996,male,doctoral
+Lithuania,0.44275,total,doctoral
+Luxembourg,35.90802,female,bachelor
+Luxembourg,41.941179999999996,male,bachelor
+Luxembourg,38.92815,total,bachelor
+Malta,8.718119999999999,female,bachelor
+Malta,8.991489999999999,male,bachelor
+Malta,8.85195,total,bachelor
+Malta,3.5337099999999997,female,master
+Malta,4.41892,male,master
+Malta,3.9670900000000002,total,master
+Malta,0.2143,female,doctoral
+Malta,0.32608000000000004,male,doctoral
+Malta,0.26903,total,doctoral
+Mexico,11.928180000000001,female,bachelor
+Mexico,14.29301,male,bachelor
+Mexico,13.03255,total,bachelor
+Mexico,0.9781200000000001,female,master
+Mexico,1.44698,male,master
+Mexico,1.19708,total,master
+Mexico,0.05535,female,doctoral
+Mexico,0.11892,male,doctoral
+Mexico,0.08504,total,doctoral
+Moldova,19.71176,female,bachelor
+Moldova,17.01618,male,bachelor
+Moldova,18.46771,total,bachelor
+Moldova,0.55189,female,master
+Moldova,0.45038,male,master
+Moldova,0.5050399999999999,total,master
+Moldova,0.05376,female,doctoral
+Moldova,0.07539,male,doctoral
+Moldova,0.06373999999999999,total,doctoral
+Netherlands,15.91823,female,bachelor
+Netherlands,17.785120000000003,male,bachelor
+Netherlands,16.83447,total,bachelor
+Netherlands,7.89209,female,master
+Netherlands,10.81363,male,master
+Netherlands,9.32594,total,master
+Netherlands,0.31836,female,doctoral
+Netherlands,0.79972,male,doctoral
+Netherlands,0.55461,total,doctoral
+Poland,4.4623,female,bachelor
+Poland,4.99446,male,bachelor
+Poland,4.713830000000001,total,bachelor
+Poland,19.930020000000003,female,master
+Poland,14.54282,male,master
+Poland,17.38371,total,master
+Poland,0.43059,female,doctoral
+Poland,0.6493,male,doctoral
+Poland,0.53397,total,doctoral
+Qatar,34.48604,female,bachelor
+Qatar,17.07414,male,bachelor
+Qatar,20.51388,total,bachelor
+Romania,13.490079999999999,female,bachelor
+Romania,13.57086,male,bachelor
+Romania,13.528620000000002,total,bachelor
+Romania,0.0,female,master
+Romania,0.0,male,master
+Romania,0.0,total,master
+Saudi Arabia,0.61065,female,bachelor
+Saudi Arabia,1.32033,male,bachelor
+Saudi Arabia,1.0472299999999999,total,bachelor
+Saudi Arabia,0.24718,female,master
+Saudi Arabia,0.74742,male,master
+Saudi Arabia,0.55492,total,master
+Serbia,10.26372,female,bachelor
+Serbia,11.17502,male,bachelor
+Serbia,10.69646,total,bachelor
+Serbia,0.45377,female,master
+Serbia,0.50568,male,master
+Serbia,0.47841999999999996,total,master
+Serbia,0.24224,female,doctoral
+Serbia,0.32871999999999996,male,doctoral
+Serbia,0.28331,total,doctoral
+Singapore,25.15091,female,bachelor
+Singapore,29.719790000000003,male,bachelor
+Singapore,27.33778,total,bachelor
+Slovak Republic,18.529120000000002,female,bachelor
+Slovak Republic,17.17128,male,bachelor
+Slovak Republic,17.8811,total,bachelor
+St. Lucia,11.71407,female,bachelor
+St. Lucia,8.342239999999999,male,bachelor
+St. Lucia,10.09929,total,bachelor
+Sweden,14.46945,female,bachelor
+Sweden,8.37337,male,bachelor
+Sweden,11.46417,total,bachelor
+Sweden,9.28926,female,master
+Sweden,8.809610000000001,male,master
+Sweden,9.0528,total,master
+Sweden,0.84735,female,doctoral
+Sweden,1.47933,male,doctoral
+Sweden,1.15891,total,doctoral
+Turkey,10.67482,female,bachelor
+Turkey,15.13155,male,bachelor
+Turkey,12.8794,total,bachelor
+Turkey,0.93235,female,master
+Turkey,1.38594,male,master
+Turkey,1.15672,total,master
+Turkey,0.26784,female,doctoral
+Turkey,0.42091999999999996,male,doctoral
+Turkey,0.34356,total,doctoral
+Uganda,0.97811,female,bachelor
+Uganda,1.57865,male,bachelor
+Uganda,1.28948,total,bachelor
+United Kingdom,16.43458,female,bachelor
+United Kingdom,16.48688,male,bachelor
+United Kingdom,16.46,total,bachelor
+United Kingdom,6.2824599999999995,female,master
+United Kingdom,6.13703,male,master
+United Kingdom,6.21177,total,master
+United Kingdom,0.62962,female,doctoral
+United Kingdom,1.21963,male,doctoral
+United Kingdom,0.9164100000000001,total,doctoral
+United States,20.182479999999998,female,bachelor
+United States,19.9986,male,bachelor
+United States,20.09422,total,bachelor
+United States,10.020480000000001,female,master
+United States,9.74713,male,master
+United States,9.88928,total,master
+United States,1.1878,female,doctoral
+United States,2.20736,male,doctoral
+United States,1.6771599999999998,total,doctoral
+Uruguay,6.15701,female,bachelor
+Uruguay,5.374630000000001,male,bachelor
+Uruguay,5.7916,total,bachelor
+Uruguay,1.36489,female,master
+Uruguay,1.32208,male,master
+Uruguay,1.34489,total,master
+Uruguay,0.061970000000000004,female,doctoral
+Uruguay,0.06014,male,doctoral
+Uruguay,0.061110000000000005,total,doctoral
+West Bank and Gaza,14.24632,female,bachelor
+West Bank and Gaza,14.95636,male,bachelor
+West Bank and Gaza,14.604079999999998,total,bachelor
+West Bank and Gaza,0.79511,female,master
+West Bank and Gaza,1.87668,male,master
+West Bank and Gaza,1.34007,total,master
+West Bank and Gaza,0.06838,female,doctoral
+West Bank and Gaza,0.55206,male,doctoral
+West Bank and Gaza,0.31209000000000003,total,doctoral
