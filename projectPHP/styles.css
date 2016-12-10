@@ -1,0 +1,304 @@
+{
+    box-sizing: border-box;
+}
+     body {
+
+margin: 0;
+padding: 0;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+color: #222;
+background: #f7f5f0;
+}
+
+.datagridview table { 
+border-collapse: collapse; 
+text-align: left; width: 100%; } 
+
+.datagridview {
+font: normal 12px/150% Arial, Helvetica, sans-serif; 
+background: #fff; 
+overflow: hidden; 
+border: 1px solid #006699; 
+-webkit-border-radius: 3px; 
+-moz-border-radius: 3px; 
+border-radius: 3px; }
+.datagridview table td, 
+.datagridview table th { 
+padding: 50px 100px; }
+.datagridview table thead th {
+background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );
+background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');
+background-color:#006699; 
+color:#FFFFFF; 
+font-size: 15px; 
+font-weight: bold; 
+border-left: 1px solid #0070A8; } 
+.datagridview table thead th:first-child { 
+border: none; }
+.datagridview table tbody td { 
+color: #00496B; 
+border-left: 1px solid #E1EEF4;
+font-size: 12px;font-weight: normal; }
+.datagridview table tbody .alt td { 
+background: #E1EEF4; color: #00496B; }
+.datagridview table tbody td:first-child { 
+border-left: none; }
+.datagridview table tbody tr:last-child td { 
+border-bottom: none; }
+.datagridview table tfoot td div { 
+border-top: 1px solid #006699;
+background: #E1EEF4;} 
+.datagridview  table tfoot td { 
+padding: 0; font-size: 12px } 
+.datagridview table tfoot td div{ 
+padding: 2px; }
+.datagridview table tfoot td ul { 
+margin: 0; padding:0; list-style: none; text-align: right; }
+.datagridview table tfoot  li { 
+display: inline; }
+.datagridview table tfoot li a {
+text-decoration: none; display: inline-block;  padding: 2px 8px; margin: 1px;color: #FFFFFF;border: 1px solid #006699;-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; 
+background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );
+background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');
+background-color:#006699; }
+.datagridview  table tfoot ul.active, 
+.datagridview table tfoot ul a:hover { 
+text-decoration: none;border-color: #006699; color: #FFFFFF; 
+background: none; background-color:#00557F;}
+div.dhtmlx_window_active, div.dhx_modal_cover_dv { 
+position: fixed !important; }
+
+.datagrid table { 
+border-collapse: collapse; 
+text-align: left; width: 100%; } 
+
+.datagrid {
+font: normal 12px/150% Arial, Helvetica, sans-serif; 
+background: #fff; 
+overflow: hidden; 
+border: 1px solid #006699; 
+-webkit-border-radius: 3px; 
+-moz-border-radius: 3px; 
+border-radius: 3px; }
+.datagrid table td, 
+.datagrid table th { 
+padding: 50px 100px; }
+.datagrid table thead th {
+background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );
+background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');
+background-color:#006699; 
+color:#FFFFFF; 
+font-size: 15px; 
+font-weight: bold; 
+border-left: 1px solid #0070A8; } 
+.datagrid table thead th:first-child { 
+border: none; }
+.datagrid table tbody td { 
+color: #00496B; 
+border-left: 1px solid #E1EEF4;
+font-size: 12px;font-weight: normal; }
+.datagrid table tbody .alt td { 
+background: #E1EEF4; color: #00496B; }
+.datagrid table tbody td:first-child { 
+border-left: none; }
+.datagrid table tbody tr:last-child td { 
+border-bottom: none; }
+.datagrid table tfoot td div { 
+border-top: 1px solid #006699;
+background: #E1EEF4;} 
+.datagrid table tfoot td { 
+padding: 0; font-size: 12px } 
+.datagrid table tfoot td div{ 
+padding: 2px; }
+.datagrid table tfoot td ul { 
+margin: 0; padding:0; list-style: none; text-align: right; }
+.datagrid table tfoot  li { 
+display: inline; }
+.datagrid table tfoot li a {
+text-decoration: none; display: inline-block;  padding: 2px 8px; margin: 1px;color: #FFFFFF;border: 1px solid #006699;-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; 
+background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );
+background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');
+background-color:#006699; }
+.datagrid table tfoot ul.active, 
+.datagrid table tfoot ul a:hover { 
+text-decoration: none;border-color: #006699; color: #FFFFFF; 
+background: none; background-color:#00557F;}
+div.dhtmlx_window_active, div.dhx_modal_cover_dv { 
+position: fixed !important; }
+
+
+a {
+text-decoration: none;
+color: #5284aa;
+}
+a:hover {
+color: #6633ff;
+}
+
+
+.main-nav {
+width: 100%;
+background: black;
+min-height: 30px;
+padding: 10px;
+position: fixed;
+text-align: center;
+}
+.nav {
+display: flex;
+justify-content: space-around;
+font-weight: 700;
+list-style-type: none;
+margin: 0 auto;
+padding: 0;
+}
+.nav .name {
+display: none;
+}
+.nav li {
+padding: 5px 10px 10px 10px;
+}
+.nav a {
+transition: all .5s;
+}
+.nav a:hover {
+color: white
+}
+
+header {
+text-align: center;
+background: url('university.png') no-repeat top center ;
+background-size: cover;
+overflow: hidden;
+padding-top: 60px;
+}
+header {
+line-height: 1.5;
+}
+header .profile-image {
+margin-top: 50px;
+width: 400px;
+height: 200px;
+transition: all .5s;
+}
+header .profile-image:hover {
+transform: scale(1.2) rotate(5deg);
+}
+.tag {
+background-color: #efefef;
+color: black;
+padding: 10px;
+border-radius: 5px;
+display: table;
+margin: 10px auto;
+}
+.location {
+background-color: #222;
+color: yellow;
+}
+.card {
+margin: 30px;
+padding: 20px 40px 40px;
+max-width: 500px;
+text-align: left;
+background: #fff;
+border-bottom: 4px solid #ccc;
+border-radius: 6px;
+}
+.card:hover {
+border-color: #ff99ff;
+}
+
+ul.skills {
+padding: 0;
+text-align: center;
+}
+
+.skills li {
+border-radius: 6px;
+display: inline-block;
+background: #ff9904;
+color: white;
+padding: 5px 10px;
+margin: 2px;
+}
+
+.skills li:nth-child(odd) {
+background: #0399ff;
+}
+
+footer {
+width: 100%;
+min-height: 30px;
+padding: 20px 0 40px 20px;
+}
+
+footer ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+footer ul li {
+display: inline-block;
+}
+
+a.social {
+display: inline-block;
+text-indent: -9999px;
+margin-left: 5px;
+width: 30px;
+height: 30px;
+background-size: 30px 30px;
+opacity: .5;
+transition: all .25s;
+}
+.clearfix {
+clear: both;
+}
+
+@media screen and (min-width: 720px) {
+
+.flex {
+display: flex;
+max-width: 1200px;
+justify-content: space-around;
+margin: 0 auto;
+}
+
+header {
+min-height: 450px;
+}
+
+.nav {
+max-width: 1200px;
+}
+
+.nav .name {
+display: block;
+margin-right: auto;
+color: white;
+}
+
+main {
+padding-top: 50px;
+}
+
+main p {
+line-height: 1.6em;
+}
+
+footer {
+font-size: 1.3em;
+max-width: 1200px;
+margin: 40px auto;
+}
+
+}
+
+
