@@ -1,0 +1,819 @@
+name,country,id
+Harvard University,70,1
+California Institute of Technology,70,2
+Massachusetts Institute of Technology,70,3
+Stanford University,70,4
+Princeton University,70,5
+"University of California, Berkeley",70,6
+Yale University,70,7
+"University of California, Los Angeles",70,8
+University of Chicago,70,9
+Johns Hopkins University,70,10
+Cornell University,70,11
+University of Michigan,70,12
+Columbia University,70,13
+University of Pennsylvania,70,14
+Carnegie Mellon University,70,15
+University of Washington,70,16
+Duke University,70,17
+Northwestern University,70,18
+Georgia Institute of Technology,70,19
+"University of California, Santa Barbara",70,20
+University of North Carolina at Chapel Hill,70,21
+"University of California, San Diego",70,22
+University of Illinois at Urbana-Champaign,70,23
+Washington University in St Louis,70,24
+University of Wisconsin,70,25
+Rice University,70,26
+"University of California, Irvine",70,27
+Vanderbilt University,70,28
+University of Minnesota,70,29
+Tufts University,70,30
+"University of California, Davis",70,31
+Brown University,70,32
+University of Massachusetts,70,33
+Boston University,70,34
+New York University,70,35
+Emory University,70,36
+University of Notre Dame,70,37
+University of Pittsburgh,70,38
+Case Western Reserve University,70,39
+Ohio State University,70,40
+University of Colorado Boulder,70,41
+"University of California, Santa Cruz",70,42
+Yeshiva University,70,43
+University of Virginia,70,44
+University of Southern California,70,45
+William & Mary,70,46
+Stony Brook University,70,47
+University of Utah,70,48
+Wake Forest University,70,49
+George Washington University,70,50
+University of Arizona,70,51
+"University of Maryland, College Park",70,52
+Dartmouth College,70,53
+Rensselaer Polytechnic Institute,70,54
+"Rutgers, the State University of New Jersey",70,55
+Purdue University,70,56
+Pennsylvania State University,70,57
+University of Hawaii at Manoa,70,58
+"University of California, Riverside",70,59
+Michigan State University,70,60
+University of Iowa,70,61
+Indiana University,70,62
+Iowa State University,70,63
+Georgia Health Sciences University,70,64
+University of Delaware,70,65
+Arizona State University,70,66
+Boston College,70,67
+Georgetown University,70,68
+Drexel University,70,69
+University of Cincinnati,70,70
+Kent State University,70,71
+University of Illinois at Chicago,70,72
+University of Wisconsin-Madison,70,73
+University of Texas at Austin,70,74
+University of Rochester,70,75
+University of Florida,70,76
+Brandeis University,70,77
+Medical University of South Carolina,70,78
+Texas A&M University,70,79
+University of Miami,70,80
+Colorado School of Mines,70,81
+Northeastern University,70,82
+Tulane University,70,83
+University at Buffalo,70,84
+University of Georgia,70,85
+University of Medicine and Dentistry of New Jersey,70,86
+University of South Carolina,70,87
+Colorado State University,70,88
+Creighton University,70,89
+State University of New York Albany,70,90
+University of Missouri,70,91
+University of Texas at Dallas,70,92
+Virginia Polytechnic Institute and State University,70,93
+Wayne State University,70,94
+University of Kansas,70,95
+University of Kentucky,70,96
+University of Texas at San Antonio,70,97
+"Binghamton University, State University of New York",70,98
+George Mason University,70,99
+Lehigh University,70,100
+University of Houston,70,101
+"University of Maryland, Baltimore County",70,102
+University of Oklahoma,70,103
+University of South Florida,70,104
+Washington State University,70,105
+Auburn University,70,106
+Clemson University,70,107
+Georgia State University,70,108
+Kansas State University,70,109
+Michigan Technological University,70,110
+New Jersey Institute of Technology,70,111
+Old Dominion University,70,112
+University of Idaho,70,113
+University of Wyoming,70,114
+Florida Institute of Technology,70,115
+University of Connecticut,70,116
+University of Oregon,70,117
+Oregon State University,70,118
+University of Montana,70,119
+North Carolina State University,70,120
+University of Vermont,70,121
+Southern Methodist University,70,122
+Temple University,70,123
+University of Nebraska-Lincoln,70,124
+University of Alaska Fairbanks,70,125
+San Diego State University,70,126
+Syracuse University,70,127
+University of New Mexico,70,128
+Illinois Institute of Technology,70,129
+University of Nebraska Medical Center,70,130
+Florida State University,70,131
+Oregon Health and Science University,70,132
+Rush University,70,133
+Saint Louis University,70,134
+"University of Tennessee, Knoxville",70,135
+Medical College of Wisconsin,70,136
+University of South Dakota,70,137
+American University,70,138
+Florida International University,70,139
+Howard University,70,140
+Louisiana State University,70,141
+University of San Francisco,70,142
+University of Arkansas,70,143
+Missouri University of Science and Technology,70,144
+Montana State University,70,145
+New Mexico State University,70,146
+University of North Carolina at Greensboro,70,147
+Oklahoma State University,70,148
+Portland State University,70,149
+University of Texas at Arlington,70,150
+University of Toledo,70,151
+University of Tulsa,70,152
+University of Wisconsin-Milwaukee,70,153
+"California State University, Long Beach",70,154
+Miami University,70,155
+Oakland University,70,156
+Ohio University,70,157
+Rochester Institute of Technology,70,158
+University of Southern Mississippi,70,159
+University of Texas at El Paso,70,160
+Texas Tech University,70,161
+University of Cambridge,69,162
+University of Oxford,69,163
+Imperial College London,69,164
+University College London,69,165
+University of Edinburgh,69,166
+University of Bristol,69,167
+King’s College London,69,168
+University of Sussex,69,169
+University of York,69,170
+Durham University,69,171
+London School of Economics and Political Science,69,172
+University of Manchester,69,173
+"Royal Holloway, University of London",69,174
+University of Southampton,69,175
+University of St Andrews,69,176
+Queen Mary University of London,69,177
+Lancaster University,69,178
+University of Glasgow,69,179
+University of Sheffield,69,180
+University of Dundee,69,181
+University of Birmingham,69,182
+University of Aberdeen,69,183
+"Birkbeck, University of London",69,184
+Newcastle University,69,185
+University of Liverpool,69,186
+University of Leeds,69,187
+University of East Anglia,69,188
+University of Nottingham,69,189
+University of Exeter,69,190
+University of Warwick,69,191
+University of Reading,69,192
+University of Leicester,69,193
+Cardiff University,69,194
+University of Essex,69,195
+Bangor University,69,196
+Brunel University London,69,197
+Queen’s University Belfast,69,198
+University of Bath,69,199
+Aberystwyth University,69,200
+Keele University,69,201
+Plymouth University,69,202
+University of Hertfordshire,69,203
+University of Hull,69,204
+University of Stirling,69,205
+University of Surrey,69,206
+Aston University,69,207
+Heriot-Watt University,69,208
+Liverpool John Moores University,69,209
+Loughborough University,69,210
+Swansea University,69,211
+University of Kent,69,212
+University of Strathclyde,69,213
+"St George’s, University of London",69,214
+University of Portsmouth,69,215
+Royal Veterinary College,69,216
+Bournemouth University,69,217
+City University London,69,218
+The Open University,69,219
+Oxford Brookes University,69,220
+Ulster University,69,221
+De Montfort University,69,222
+Manchester Metropolitan University,69,223
+University of Bradford,69,224
+University of Brighton,69,225
+University of Central Lancashire,69,226
+Coventry University,69,227
+Glasgow Caledonian University,69,228
+University of Greenwich,69,229
+University of Huddersfield,69,230
+Kingston University,69,231
+University of Lincoln,69,232
+Middlesex University,69,233
+Northumbria University,69,234
+Nottingham Trent University,69,235
+University of Salford,69,236
+Sheffield Hallam University,69,237
+University of the West of England,69,238
+University of Westminster,69,239
+ETH Zurich – Swiss Federal Institute of Technology Zurich,62,240
+École Polytechnique Fédérale de Lausanne,62,241
+University of Zurich,62,242
+University of Basel,62,243
+University of Geneva,62,244
+University of Lausanne,62,245
+University of Bern,62,246
+University of Fribourg,62,247
+University of St Gallen,62,248
+University of Neuchâtel,62,249
+University of Toronto,8,250
+University of British Columbia,8,251
+McGill University,8,252
+McMaster University,8,253
+University of Alberta,8,254
+University of Victoria,8,255
+University of Montreal,8,256
+Dalhousie University,8,257
+Simon Fraser University,8,258
+Queen’s University,8,259
+University of Ottawa,8,260
+University of Waterloo,8,261
+University of Western Ontario,8,262
+Carleton University,8,263
+University of Calgary,8,264
+University of Guelph,8,265
+York University,8,266
+University of Manitoba,8,267
+Laval University,8,268
+Concordia University,8,269
+University of Saskatchewan,8,270
+Université du Québec à Montréal,8,271
+Memorial University of Newfoundland,8,272
+University of Regina,8,273
+Université de Sherbrooke,8,274
+University of Hong Kong,22,275
+Hong Kong University of Science and Technology,22,276
+Hong Kong Baptist University,22,277
+Hong Kong Polytechnic University,22,278
+Chinese University of Hong Kong,22,279
+City University of Hong Kong,22,280
+University of Tokyo,30,281
+Kyoto University,30,282
+Tokyo Institute of Technology,30,283
+Osaka University,30,284
+Tohoku University,30,285
+Nagoya University,30,286
+Tokyo Metropolitan University,30,287
+Kyushu University,30,288
+University of Tsukuba,30,289
+Hokkaido University,30,290
+Tokyo Medical and Dental University (TMDU),30,291
+Keio University,30,292
+Hiroshima University,30,293
+Kobe University,30,294
+Tokyo University of Agriculture and Technology,30,295
+Waseda University,30,296
+Kanazawa University,30,297
+Osaka City University,30,298
+Chiba University,30,299
+Ehime University,30,300
+Gifu University,30,301
+Juntendo University,30,302
+Kinki University,30,303
+Kumamoto University,30,304
+Kyushu Institute of Technology,30,305
+Nagasaki University,30,306
+Niigata University,30,307
+Okayama University,30,308
+Osaka Prefecture University,30,309
+Saitama University,30,310
+Shinshu University,30,311
+Showa University,30,312
+Sophia University,30,313
+Tokai University,30,314
+Tokushima University,30,315
+Tokyo University of Marine Science and Technology,30,316
+Tokyo University of Science,30,317
+Tottori University,30,318
+Toyohashi University of Technology,30,319
+Yokohama City University,30,320
+Yokohama National University,30,321
+Pohang University of Science and Technology,59,322
+Korea Advanced Institute of Science and Technology (KAIST),59,323
+Seoul National University,59,324
+Yonsei University,59,325
+Korea University,59,326
+Sungkyunkwan University (SKKU),59,327
+Kyung Hee University,59,328
+Hanyang University,59,329
+Ewha Womans University,59,330
+University of Seoul,59,331
+Gwangju Institute of Science and Technology,59,332
+University of Ulsan,59,333
+Chung-Ang University,59,334
+Pusan National University,59,335
+Ajou University,59,336
+Chonbuk National University,59,337
+Chonnam National University,59,338
+Chungnam National University,59,339
+Inha University,59,340
+Konkuk University,59,341
+Kyungpook National University,59,342
+Sejong University,59,343
+Sogang University,59,344
+Yeungnam University,59,345
+National University of Singapore,55,346
+Nanyang Technological University,55,347
+University of Melbourne,2,348
+Australian National University,2,349
+University of Sydney,2,350
+University of Adelaide,2,351
+The University of Queensland,2,352
+University of New South Wales,2,353
+Monash University,2,354
+University of Western Australia,2,355
+Macquarie University,2,356
+University of Wollongong,2,357
+Queensland University of Technology,2,358
+University of Newcastle,2,359
+Charles Darwin University,2,360
+University of Tasmania,2,361
+Curtin University,2,362
+Deakin University,2,363
+Flinders University,2,364
+Griffith University,2,365
+La Trobe University,2,366
+Swinburne University of Technology,2,367
+University of South Australia,2,368
+Murdoch University,2,369
+University of Technology Sydney,2,370
+Western Sydney University,2,371
+James Cook University,2,372
+RMIT University,2,373
+Southern Cross University,2,374
+University of Canberra,2,375
+Central Queensland University,2,376
+Edith Cowan University,2,377
+University of Southern Queensland,2,378
+Peking University,10,379
+University of Science and Technology of China,10,380
+Tsinghua University,10,381
+Nanjing University,10,382
+Sun Yat-sen University,10,383
+Zhejiang University,10,384
+Fudan University,10,385
+Shanghai Jiao Tong University,10,386
+Harbin Institute of Technology,10,387
+Wuhan University,10,388
+Renmin University of China,10,389
+Wuhan University of Technology,10,390
+East China University of Science and Technology,10,391
+Xiamen University,10,392
+China Agricultural University,10,393
+East China Normal University,10,394
+Huazhong University of Science and Technology,10,395
+Soochow University,10,396
+South China University of Technology,10,397
+Tianjin University,10,398
+Tongji University,10,399
+Xi’an Jiaotong University,10,400
+Beijing Institute of Technology,10,401
+Capital Medical University,10,402
+China University of Geosciences (Wuhan),10,403
+China University of Petroleum (Beijing),10,404
+Chongqing University,10,405
+Dalian University of Technology,10,406
+University of Electronic Science and Technology of China,10,407
+Hunan University,10,408
+Jilin University,10,409
+Northwestern Polytechnical University,10,410
+Ocean University of China,10,411
+University of Science and Technology Beijing,10,412
+Shanghai University,10,413
+Shantou University,10,414
+Sichuan University,10,415
+Xidian University,10,416
+École Polytechnique,18,417
+École Normale Supérieure,18,418
+École Normale Supérieure de Lyon,18,419
+Pierre and Marie Curie University,18,420
+Paris Diderot University – Paris 7,18,421
+University of Strasbourg,18,422
+Montpellier University,18,423
+University of Paris North – Paris 13,18,424
+Paris-Sud University,18,425
+Joseph Fourier University,18,426
+Mines ParisTech,18,427
+Claude Bernard University Lyon 1,18,428
+Paris Dauphine University,18,429
+Paris Descartes University,18,430
+Aix-Marseille University,18,431
+University of Bordeaux,18,432
+Toulouse 1 Capitole University,18,433
+Panthéon-Sorbonne University – Paris 1,18,434
+Lille 2 University – Health and Law,18,435
+University of Nantes,18,436
+National Institute of Applied Sciences of Lyon (INSA Lyon),18,437
+University of Nice Sophia Antipolis,18,438
+Blaise Pascal University,18,439
+University of Burgundy,18,440
+University of Rennes 1,18,441
+University of Cergy-Pontoise,18,442
+Lille 1 University – Science and Technology,18,443
+Paris-Sorbonne University – Paris 4,18,444
+Karolinska Institute,61,445
+Lund University,61,446
+Stockholm University,61,447
+Uppsala University,61,448
+KTH Royal Institute of Technology,61,449
+Swedish University of Agricultural Sciences,61,450
+Umeå University,61,451
+University of Gothenburg,61,452
+Chalmers University of Technology,61,453
+Linköping University,61,454
+Örebro University,61,455
+University of Göttingen,19,456
+LMU Munich,19,457
+Heidelberg University,19,458
+Technical University of Munich,19,459
+University of Freiburg,19,460
+University of Würzburg,19,461
+Goethe University Frankfurt,19,462
+Bielefeld University,19,463
+Humboldt University of Berlin,19,464
+University of Bonn,19,465
+RWTH Aachen University,19,466
+University of Konstanz,19,467
+Karlsruhe Institute of Technology,19,468
+University of Tübingen,19,469
+Free University of Berlin,19,470
+Ulm University,19,471
+University of Hamburg,19,472
+Ruhr University Bochum,19,473
+TU Dresden,19,474
+University of Kiel,19,475
+Technical University of Darmstadt,19,476
+University of Münster,19,477
+Leibniz University of Hanover,19,478
+Johannes Gutenberg University of Mainz,19,479
+University of Erlangen-Nuremberg,19,480
+Bayreuth University,19,481
+University of Duisburg-Essen,19,482
+University of Cologne,19,483
+Technical University of Berlin,19,484
+University of Bremen,19,485
+University of Stuttgart,19,486
+University of Mannheim,19,487
+Charité - Universitätsmedizin Berlin,19,488
+Justus Liebig University Giessen,19,489
+University of Greifswald,19,490
+University of Hohenheim,19,491
+Technical University of Dortmund,19,492
+University of Kaiserslautern,19,493
+Otto von Guericke University of Magdeburg,19,494
+Trinity College Dublin,50,495
+University College Dublin,50,496
+University College Cork,50,497
+"National University of Ireland, Galway",50,498
+"National University of Ireland, Maynooth",50,499
+Royal College of Surgeons in Ireland,50,500
+Dublin City University,50,501
+University of Limerick,50,502
+Dublin Institute of Technology,50,503
+University of Helsinki,17,504
+Aalto University,17,505
+University of Eastern Finland,17,506
+University of Tampere,17,507
+University of Turku,17,508
+University of Jyväskylä,17,509
+Lappeenranta University of Technology,17,510
+University of Oulu,17,511
+Tampere University of Technology,17,512
+National Tsing Hua University,63,513
+National Taiwan University,63,514
+National Sun Yat-Sen University,63,515
+National Chiao Tung University,63,516
+National Taiwan University of Science and Technology (Taiwan Tech),63,517
+National Central University,63,518
+National Taiwan Ocean University,63,519
+Yuan Ze University,63,520
+National Cheng Kung University,63,521
+"China Medical University, Taiwan",63,522
+National Yang-Ming University,63,523
+National Taiwan Normal University,63,524
+"Asia University, Taiwan",63,525
+Chang Gung University,63,526
+Chung Yuan Christian University,63,527
+Feng Chia University,63,528
+Fu Jen Catholic University,63,529
+I-Shou University,63,530
+Kaohsiung Medical University,63,531
+National Chengchi University,63,532
+National Chung Cheng University,63,533
+National Chung Hsing University,63,534
+National Taipei University of Technology,63,535
+Taipei Medical University,63,536
+University of Cape Town,58,537
+Stellenbosch University,58,538
+University of the Witwatersrand,58,539
+University of KwaZulu-Natal,58,540
+University of Pretoria,58,541
+University of South Africa,58,542
+Bilkent University,65,543
+Middle East Technical University,65,544
+Istanbul Technical University,65,545
+Boğaziçi University,65,546
+Koç University,65,547
+Sabancı University,65,548
+Anadolu University,65,549
+Erciyes University,65,550
+Hacettepe University,65,551
+Istanbul University,65,552
+Yıldız Technical University,65,553
+Eindhoven University of Technology,41,554
+Leiden University,41,555
+VU University Amsterdam,41,556
+Utrecht University,41,557
+Wageningen University and Research Center,41,558
+Delft University of Technology,41,559
+Erasmus University Rotterdam,41,560
+University of Amsterdam,41,561
+University of Groningen,41,562
+University of Twente,41,563
+Radboud University Nijmegen,41,564
+Maastricht University,41,565
+Tilburg University,41,566
+KU Leuven,6,567
+Ghent University,6,568
+Université Catholique de Louvain,6,569
+Université Libre de Bruxelles,6,570
+University of Antwerp,6,571
+University of Liège,6,572
+Vrije Universiteit Brussel,6,573
+Technical University of Denmark,14,574
+Aarhus University,14,575
+University of Copenhagen,14,576
+University of Southern Denmark,14,577
+Aalborg University,14,578
+Copenhagen Business School,14,579
+University of Bergen,44,580
+University of Oslo,44,581
+Norwegian University of Science and Technology,44,582
+UiT The Arctic University of Norway,44,583
+University of Barcelona,60,584
+Pompeu Fabra University,60,585
+Autonomous University of Barcelona,60,586
+Autonomous University of Madrid,60,587
+University of Valencia,60,588
+Polytechnic University of Catalonia,60,589
+Polytechnic University of Valencia,60,590
+University of Zaragoza,60,591
+University of Vigo,60,592
+University of Navarra,60,593
+University of Rovira i Virgili,60,594
+Complutense University of Madrid,60,595
+University of the Basque Country,60,596
+University of Granada,60,597
+University of La Laguna,60,598
+University of Oviedo,60,599
+University of Salamanca,60,600
+University of Santiago de Compostela,60,601
+University of Seville,60,602
+University of A Coruña,60,603
+University of Alcalá,60,604
+University of Castilla-La Mancha,60,605
+Carlos III University of Madrid,60,606
+University of Murcia,60,607
+Technical University of Madrid,60,608
+University of Auckland,42,609
+University of Otago,42,610
+Victoria University of Wellington,42,611
+University of Canterbury,42,612
+University of Waikato,42,613
+Massey University,42,614
+Auckland University of Technology,42,615
+Alexandria University,15,616
+Cairo University,15,617
+Suez Canal University,15,618
+University of Innsbruck,3,619
+University of Vienna,3,620
+Johannes Kepler University of Linz,3,621
+University of Graz,3,622
+Vienna University of Technology,3,623
+Medical University of Vienna,3,624
+Graz University of Technology,3,625
+Hebrew University of Jerusalem,28,626
+Tel Aviv University,28,627
+Technion Israel Institute of Technology,28,628
+Bar-Ilan University,28,629
+Ben-Gurion University of the Negev,28,630
+University of Haifa,28,631
+University of São Paulo,7,632
+State University of Campinas,7,633
+Federal University of Rio de Janeiro,7,634
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),7,635
+University of Brasília,7,636
+Federal University of Bahia,7,637
+Federal University of Minas Gerais,7,638
+Federal University of Paraná (UFPR),7,639
+Federal University of Rio Grande do Sul,7,640
+Federal University of Santa Catarina,7,641
+Federal University of São Carlos,7,642
+Federal University of Viçosa,7,643
+Federal University of Lavras,7,644
+Pontifical Catholic University of Paraná,7,645
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),7,646
+Rio de Janeiro State University (UERJ),7,647
+São Paulo State University (UNESP),7,648
+University of Bologna,29,649
+University of Milan,29,650
+University of Milan-Bicocca,29,651
+University of Padua,29,652
+University of Trieste,29,653
+University of Trento,29,654
+Polytechnic University of Milan,29,655
+Sapienza University of Rome,29,656
+University of Ferrara,29,657
+University of Modena and Reggio Emilia,29,658
+University of Pisa,29,659
+Polytechnic University of Turin,29,660
+University of Bari Aldo Moro,29,661
+University of Salento,29,662
+University of Turin,29,663
+University of Pavia,29,664
+University of Florence,29,665
+Scuola Normale Superiore di Pisa,29,666
+University of Rome III,29,667
+Scuola Superiore Sant’Anna,29,668
+University of Naples Federico II,29,669
+Verona University,29,670
+University of Brescia,29,671
+Ca’ Foscari University of Venice,29,672
+University of Cagliari,29,673
+Catholic University of the Sacred Heart,29,674
+University of Genoa,29,675
+Marche Polytechnic University,29,676
+University of Palermo,29,677
+University of Parma,29,678
+University of Rome II – Tor Vergata,29,679
+University of Siena,29,680
+University of Urbino Carlo Bo,29,681
+University of Catania,29,682
+Lomonosov Moscow State University,52,683
+Saint Petersburg State University,52,684
+National Research Nuclear University MePhI,52,685
+Novosibirsk State University,52,686
+Peter the Great St Petersburg Polytechnic University,52,687
+Tomsk Polytechnic University,52,688
+Kazan Federal University,52,689
+Bauman Moscow State Technical University,52,690
+Moscow Institute of Physics and Technology,52,691
+National University of Science and Technology (MISiS),52,692
+Southern Federal University,52,693
+Tomsk State University,52,694
+Ural Federal University,52,695
+University of Crete,21,696
+University of Ioannina,21,697
+National and Kapodistrian University of Athens,21,698
+National Technical University of Athens,21,699
+Aristotle University of Thessaloniki,21,700
+Athens University of Economics and Business,21,701
+University of Patras,21,702
+University of Iceland,24,703
+Charles University in Prague,13,704
+VŠB - Technical University of Ostrava,13,705
+Brno University of Technology,13,706
+Czech Technical University in Prague,13,707
+Masaryk University,13,708
+Palacký University in Olomouc,13,709
+"University of Chemistry and Technology, Prague",13,710
+University of Pardubice,13,711
+University of West Bohemia,13,712
+Indian Institute of Technology Bombay,25,713
+Indian Institute of Technology Kharagpur,25,714
+Indian Institute of Technology Roorkee,25,715
+Panjab University,25,716
+Indian Institute of Technology Delhi,25,717
+Indian Institute of Technology Kanpur,25,718
+Indian Institute of Science,25,719
+Indian Institute of Technology Madras,25,720
+Indian Institute of Technology Guwahati,25,721
+Jadavpur University,25,722
+Aligarh Muslim University,25,723
+Amrita University,25,724
+Andhra University,25,725
+"Birla Institute of Technology and Science, Pilani",25,726
+University of Calcutta,25,727
+University of Delhi,25,728
+Savitribai Phule Pune University,25,729
+Jagiellonian University,47,730
+University of Warsaw,47,731
+Adam Mickiewicz University,47,732
+AGH University of Science and Technology,47,733
+Gdańsk University of Technology,47,734
+University of Silesia in Katowice,47,735
+Warsaw University of Technology,47,736
+Sharif University of Technology,27,737
+Isfahan University of Technology,27,738
+Iran University of Science and Technology,27,739
+Amirkabir University of Technology,27,740
+Tehran University of Medical Sciences,27,741
+K.N. Toosi University of Technology,27,742
+Shahid Beheshti University,27,743
+University of Tehran,27,744
+University of Aveiro,48,745
+University of Porto,48,746
+New University of Lisbon,48,747
+University of Coimbra,48,748
+University of Minho,48,749
+University of Lisbon,48,750
+Instituto Superior Técnico Lisboa,48,751
+Mahidol University,64,752
+King Mongkut’s University of Technology Thonburi,64,753
+Chiang Mai University,64,754
+Chulalongkorn University,64,755
+Khon Kaen University,64,756
+Prince of Songkla University,64,757
+Suranaree University of Technology,64,758
+Pontifical Catholic University of Chile,9,759
+Federico Santa María Technical University,9,760
+University of Chile,9,761
+Austral University of Chile,9,762
+Pontifical Catholic University of Valparaíso,9,763
+"University of Santiago, Chile (USACH)",9,764
+University of Tartu,16,765
+Tallinn University of Technology,16,766
+King Abdulaziz University,53,767
+King Saud University,53,768
+King Fahd University of Petroleum and Minerals,53,769
+National Autonomous University of Mexico,39,770
+Monterrey Institute of Technology and Higher Education,39,771
+"University of the Andes, Colombia",11,772
+University of Antioquia,11,773
+University of Macau,37,774
+University of Marrakech Cadi Ayyad,40,775
+University of Luxembourg,36,776
+University of Cyprus,12,777
+Makerere University,66,778
+Universiti Teknologi Malaysia,38,779
+Universiti Kebangsaan Malaysia,38,780
+Universiti Putra Malaysia,38,781
+Universiti Sains Malaysia,38,782
+Universiti Teknologi MARA,38,783
+American University of Beirut,34,784
+Babeş-Bolyai University,51,785
+Alexandru Ioan Cuza University,51,786
+University of Bucharest,51,787
+West University of Timişoara,51,788
+University of Maribor,57,789
+University of Ljubljana,57,790
+Quaid-i-azam University,46,791
+National University of Sciences and Technology,46,792
+Semmelweis University,23,793
+Budapest University of Technology and Economics,23,794
+University of Debrecen,23,795
+Eötvös Loránd University,23,796
+University of Pécs,23,797
+University of Szeged,23,798
+United Arab Emirates University,68,799
+American University of Sharjah,68,800
+Belarusian State University,5,801
+University of Belgrade,54,802
+Comenius University in Bratislava,56,803
+Slovak University of Technology in Bratislava,56,804
+University of Dhaka,4,805
+University of Ghana,20,806
+University of Ibadan,43,807
+University of Indonesia,26,808
+University of Jordan,31,809
+Jordan University of Science and Technology,31,810
+University of Latvia,33,811
+University of Nairobi,32,812
+National University of Córdoba,1,813
+Qatar University,49,814
+Sultan Qaboos University,45,815
+Taras Shevchenko National University of Kyiv,67,816
+V.N. Karazin Kharkiv National University,67,817
+Vilnius University,35,818
