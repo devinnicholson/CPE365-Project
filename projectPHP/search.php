@@ -50,7 +50,7 @@
   $db = new PDO('mysql:host=127.0.0.1;port=33306;dbname=dmarndt', 'dmarndt', '5259491');
 
 
-  foreach ($db->query('select distinct ranking.total, university.name, country.name, attainment.degree, ranking.income from university,      country, attainment, ranking where university.country = country.id and attainment.country = country.id and ranking.university =            university.id and gender = "total" and ranking.income IS NOT NULL order by ranking.total DESC, attainment.degree') as $row){
+  foreach ($db->query('select distinct ranking.total, university.name, country.name, ranking.income, ranking.research, ranking.studentFacultyRatio from university,      country, ranking where university.country = country.id and ranking.university =            university.id and ranking.income IS NOT NULL order by ranking.total DESC') as $row){
        ?>
 
 <tr>
