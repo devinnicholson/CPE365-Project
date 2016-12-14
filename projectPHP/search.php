@@ -40,7 +40,7 @@
 
     <table class="order-table table">
 
- <thead><tr><th>Total Score</th><th>University</th><th>Country</th><th>Degree</th><th>Income</th></tr></thead>
+ <thead><tr><th>Total Score</th><th>University</th><th>Country</th><th>Income</th><th>Research</th><th>Student Faculty Ratio</th></tr></thead>
  <tfoot><tr><td colspan="4"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</     span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a  href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
  <tbody>
  <?php
