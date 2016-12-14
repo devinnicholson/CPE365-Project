@@ -35,10 +35,10 @@
 <main class="flex">
 <div class="card">
 
-<h2>Background</h2>
+<h2>About</h2>
 
-<p>Aasdasdadada</p>
-<p>Isdfsdfsdfds</p>
+<p>Welcome to UniRank! Where you can view, search and compare colleges all around the world. </p>
+<p>To get started, just click one of the links in the top right corner. Enjoy!</p>
 <ul>
 <li>To search for a college, click<a href="search.php"> here</a></li>
 </ul>
@@ -48,16 +48,13 @@
 
 <h2>Top Colleges</h2>
 
-<p>sdfsdfsdfds</p>
-
 <ul class="top">
-<li>1</li>
-<li>2</li>
-<li>3</li>
-<li>4</li>
-<li>5</li>
+<li>1. Harvard University</li>
+<li>2. California Institute of Technology</li>
+<li>3. Massachusetts Institute of Technology</li>
+<li>4. Stanford University</li>
+<li>5. Princeton University</li>
 </ul>
-<p>kewl</p>
 </div>
 </main>
 <footer>

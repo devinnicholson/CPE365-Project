@@ -32,15 +32,30 @@
 </header>
 
 <main class="flex">
-<div class="datagridview">
+<div class="datagrid">
 <table id="viewTable" class="sortable">
-<thead><tr><th>header</th><th>header</th><th>header</th><th>header</th></tr></thead>
+<thead><tr><th>Ranking</th><th>University</th><th>Country</th><th>Gender</th><th>Degree</th></tr></thead>
 <tfoot><tr><td colspan="4"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
-<tbody><tr><td>data</td><td>data</td><td>data</td><td>data</td></tr>
-<tr class="alt"><td>data</td><td>data</td><td>data</td><td>data</td></tr>
-<tr><td>data</td><td>data</td><td>data</td><td>data</td></tr>
-<tr class="alt"><td>data</td><td>data</td><td>data</td><td>data</td></tr>
-<tr><td>data</td><td>data</td><td>data</td><td>data</td></tr>
+<tbody>
+<?php
+
+//$db = new PDO('mysql:host=cslvm74.csc.calpoly.edu;dbname=dmarndt', 'dmarndt', '5259491');
+
+$db = new PDO('mysql:host=127.0.0.1;port=33306;dbname=dmarndt', 'dmarndt', '5259491');
+
+
+foreach ($db->query('select distinct ranking.total, university.name, country.name, attainment.gender, attainment.degree from university, country, attainment, ranking where university.country = country.id and attainment.country = country.id and ranking.university = university.id order by ranking.total') as $row){
+?>
+<tr>    
+    <td><?php echo $row[0]; ?></td>
+    <td><?php echo $row[1]; ?></td>
+    <td><?php echo $row[2]; ?></td>
+    <td><?php echo $row[3]; ?></td>
+    <td><?php echo $row[4]; ?></td>
+</tr>
+<?php
+}
+?>
 </tbody>
 </table></div>
 

@@ -8,15 +8,18 @@ padding: 0;
 text-align: center;
 font-family: 'Roboto', sans-serif;
 color: #222;
-background: #f7f5f0;
+background: #a3a3a3;
 }
 
 .datagridview table { 
 border-collapse: collapse; 
-text-align: left; width: 100%; } 
+text-align: left; width: 100%;
+
+} 
 
 .datagridview {
 font: normal 12px/150% Arial, Helvetica, sans-serif; 
+float: left;
 background: #fff; 
 overflow: hidden; 
 border: 1px solid #006699; 
@@ -25,7 +28,7 @@ border: 1px solid #006699;
 border-radius: 3px; }
 .datagridview table td, 
 .datagridview table th { 
-padding: 50px 100px; }
+padding: 25px 25px; }
 .datagridview table thead th {
 background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );
 background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );
@@ -85,7 +88,7 @@ border: 1px solid #006699;
 border-radius: 3px; }
 .datagrid table td, 
 .datagrid table th { 
-padding: 50px 100px; }
+padding: 50px 60px; }
 .datagrid table thead th {
 background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );
 background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );
