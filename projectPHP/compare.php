@@ -38,20 +38,21 @@
 <section class="container">
 <input type="search" class="light-table-filter" data-table="order-table" placeholder="Search for a University">
 <table class="order-table table">
- <thead><tr><th>Ranking</th><th>University</th><th>Country</th><th>Gender</th><th>Degree</th></tr></thead>
-<tfoot><tr><td colspan="4"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
-<tbody>
 
+<thead><tr><th>Total Score</th><th>University</th><th>Country</th><th>Degree</th><th>Income</th></tr></thead>
+ <tfoot><tr><td colspan="4"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</     span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a  href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
+ <tbody>
  <?php
 
-//  $db = new PDO('mysql:host=cslvm74.csc.calpoly.edu;dbname=dmarndt', 'dmarndt', '5259491');
+// $db = new PDO('mysql:host=cslvm74.csc.calpoly.edu;dbname=dmarndt', 'dmarndt', '5259491');
+
+  $db = new PDO('mysql:host=127.0.0.1;port=33306;dbname=dmarndt', 'dmarndt', '5259491');
 
 
-$db = new PDO('mysql:host=127.0.0.1;port=33306;dbname=dmarndt', 'dmarndt', '5259491');
-
-foreach ($db->query('select ranking.total, university.name, country.name, attainment.gender, attainment.degree from university, country,   attainment, ranking where university.country = country.id and attainment.country = country.id and ranking.university = university.id') as $row){
+  foreach ($db->query('select distinct ranking.total, university.name, country.name, attainment.degree, ranking.income from university,      country, attainment, ranking where university.country = country.id and attainment.country = country.id and ranking.university =            university.id and gender = "total" and ranking.income IS NOT NULL order by ranking.total DESC, attainment.degree') as $row){
        ?>
- <tr>
+
+<tr>
      <td><?php echo $row[0]; ?></td>
      <td><?php echo $row[1]; ?></td>
      <td><?php echo $row[2]; ?></td>
@@ -80,19 +81,22 @@ foreach ($db->query('select ranking.total, university.name, country.name, attain
 <input type="search" class="light-table-filter" data-table="order-table2" placeholder="Search for a University">
 
     <table class="order-table2 table">
- <thead><tr><th>Ranking</th><th>University</th><th>Country</th><th>Gender</th><th>Degree</th></tr></thead>
-<tfoot><tr><td colspan="4"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
-<tbody>
+ 
 
+ <thead><tr><th>Total Score</th><th>University</th><th>Country</th><th>Degree</th><th>Income</th></tr></thead>
+ <tfoot><tr><td colspan="4"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</     span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a  href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
+ <tbody>
  <?php
 
-// $db = new PDO('mysql:host=cslvm74.csc.calpoly.edu;dbname=dmarndt', 'dmarndt', '5259491');
+   //$db = new PDO('mysql:host=cslvm74.csc.calpoly.edu;dbname=dmarndt', 'dmarndt', '5259491');
 
-$db = new PDO('mysql:host=127.0.0.1;port=33306;dbname=dmarndt', 'dmarndt', '5259491');
+   $db = new PDO('mysql:host=127.0.0.1;port=33306;dbname=dmarndt', 'dmarndt', '5259491');
 
-foreach ($db->query('select ranking.total, university.name, country.name, attainment.gender, attainment.degree from university, country,   attainment, ranking where university.country = country.id and attainment.country = country.id and ranking.university = university.id') as $row){
-       ?>
- <tr>
+
+    foreach ($db->query('select distinct ranking.total, university.name, country.name, attainment.degree, ranking.income from university,      country, attainment, ranking where university.country = country.id and attainment.country = country.id and ranking.university =            university.id and gender = "total" and ranking.income IS NOT NULL order by ranking.total DESC, attainment.degree') as $row){
+         ?>
+
+<tr>
      <td><?php echo $row[0]; ?></td>
      <td><?php echo $row[1]; ?></td>
      <td><?php echo $row[2]; ?></td>
